@@ -3,7 +3,7 @@ A written from scratch ray tracer program in C++
 
 ### Install/Compile
 + Download/Clone git repo to local machine  
-`Git clone https://github.com/andres-imperial/Ray_Tracer.git`
+`git clone https://github.com/andres-imperial/Ray_Tracer.git`
 + Change directory to Ray_Tracer  
 `cd Ray_Tracer`
 + Compile code and generate executable  
